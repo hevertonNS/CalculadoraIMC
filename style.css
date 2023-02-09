@@ -54,4 +54,9 @@ body {
     display: flex;
     margin-left: 100px;
     border: solid 2px rgb(240, 143, 243);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  padding: 3px;
+  
+
 }
